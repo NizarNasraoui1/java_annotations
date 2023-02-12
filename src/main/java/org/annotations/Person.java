@@ -1,4 +1,4 @@
-package org.example;
+package org.annotations;
 
 @JsonSerializable
 public class Person {
